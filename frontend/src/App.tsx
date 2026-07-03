@@ -1,7 +1,10 @@
+import { LogIn } from "lucide-react";
+
 const App = () => {
   return (
     <div>
       <h1 className="text-2xl text-center bg-amber-300">hiiiiiiii</h1>
+      <LogIn />
     </div>
   );
 };
